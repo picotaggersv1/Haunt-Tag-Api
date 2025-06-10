@@ -2,8 +2,8 @@ const { SlashCommandBuilder } = require('discord.js');
 const PlayFab = require('playfab-sdk/Scripts/PlayFab/PlayFab');
 const PlayFabAdmin = require('playfab-sdk/Scripts/PlayFab/PlayFabAdmin');
 
-PlayFab.settings.titleId = ''; // Replace with your PlayFab Title ID
-PlayFab.settings.developerSecretKey = ''; // Replace with your PlayFab Secret Key
+PlayFab.settings.titleId = '1605E6'; 
+PlayFab.settings.developerSecretKey = '7N1IRQZ3HRF7O4KUW5T344YZX14SW45M4ODE9JHOISRQUFIRP4'; 
 
 
 module.exports = {
